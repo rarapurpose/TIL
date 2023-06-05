@@ -1,1 +1,2 @@
-# java 独学記録
+# I started studying "java"
+# Let's record what I learned today for my growth
