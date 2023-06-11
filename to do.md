@@ -1,4 +1,4 @@
-# やるべきの事
+# ToDO
 
 + java stydy
 + resume
